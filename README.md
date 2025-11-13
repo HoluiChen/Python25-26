@@ -1,1 +1,1 @@
-# Python20-26
+# Python25-26
